@@ -1,11 +1,29 @@
+body{
+    font-family: Arial, Helvetica;
+}
+
 table{
-    border: 1px solid;
+    border: 1px solid #39aed4;
+    border-collapse: collapse;
 }
 
 td{
-    border: 1px solid blue;
+    border: 2px solid #0098cb;
 }
 
 th{
-    border: 1px solid green;
+    border: 2px solid #488ba0;
+}
+
+.header{
+    background-color: #003333;
+    color: #c9fcca;
+}
+
+.verde-1{
+    background-color: #ccffcc;
+}
+
+.verde-2{
+    background-color: #99cc99;
 }
