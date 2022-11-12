@@ -6,6 +6,7 @@ body{
 table{
     border: 2px solid #0097ca;
     border-collapse: collapse;
+    width: 20vw;
 }
 
 td{
@@ -21,4 +22,8 @@ th{
 
 .green2{
     background-color: #99cc99;
+}
+
+#num{
+    text-align: center;
 }
