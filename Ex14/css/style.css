@@ -1,0 +1,31 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+table, tr, th, td{
+    border: 1px solid #d2d49c;
+    
+}
+
+table{
+    box-shadow: 1.5px 1.5px black;
+    position: absolute;
+    background-color: #cdd29a;
+    width: 30vw;
+}
+
+.header{
+    background-color: #fffcfd;
+}
+
+.celda{
+    text-align: center;
+    background-color: #feff99;
+}
+
+img{
+    height: 600px;
+}
