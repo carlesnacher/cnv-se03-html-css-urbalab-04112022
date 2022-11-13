@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+table, td, tr, th{
+    border: 1px solid black;
+}
+
+table{
+    width: 50vw;
+    border-top: 2px solid #99999c;
+    border-right: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid #99999c;
+    background-image: url(../img/cat.jpg);
+    background-size: contain;  
+}
+
+td{
+    border-top: 2px solid black;
+    border-right: 2px solid #99999c;
+    border-bottom: 2px solid #99999c;
+    border-left: 2px solid black;
+}
+
+.header{
+    text-align: center;
+    background-color: #669966;
+    color: #a73242;
+}
+
+.orange{
+    text-align: center;
+    color: #a73242;
+    background-color: #ffcc99;
+
+}
+
+.yellow{
+    background-color: #ffff99;
+    text-align: center;
+    color: #a73242;
+}
+
+.default{
+    color: #a73242;
+    text-align: center;
+}
