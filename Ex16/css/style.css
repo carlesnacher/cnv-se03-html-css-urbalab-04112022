@@ -1,3 +1,39 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-family: Arial;
+    font-size: 16px;
+}
+
 table, td, tr, th{
     border: 1px solid black;
+}
+
+table{
+    width: 50vw;
+    background-color: #ffffcc;
+}
+
+.header{
+    text-align: center;
+    background-color: #669966;
+    color: #a73242;
+}
+
+.orange{
+    text-align: center;
+    color: #a73242;
+    background-color: #ffcc99;
+
+}
+
+.yellow{
+    background-color: #ffff99;
+    text-align: center;
+    color: #a73242;
+}
+
+.default{
+    color: #a73242;
+    text-align: center;
 }
