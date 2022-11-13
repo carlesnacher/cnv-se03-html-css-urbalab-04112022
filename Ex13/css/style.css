@@ -1,0 +1,28 @@
+h4{
+    text-align: center;
+}
+
+table, th{
+    border: 2px solid #ccc0c3;
+    border-collapse: collapse;
+    width: 95vw;
+}
+
+.green{
+    background-color: #99ff99;
+}
+
+.blue{
+    background-color: #66feff;
+    text-align: start;
+}
+
+.pink{
+    background-color: #ff99ff;
+    vertical-align: bottom;
+    text-align: end;
+}
+
+.red{
+    color: #cc182b;
+}
