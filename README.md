@@ -10,21 +10,21 @@ Actividades de refuerzo HTML5/CSS, del Bootcamp Programación Frontend Angular.
 
 [Ejercicio 11 donde2.html](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/deportes/donde2.html)
 
-[Ejercicio 12](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/deportes/instalaciones.html)
+[Ejercicio 13](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex13)
 
-[Ejercicio 4](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex4/platosemana.html)
+[Ejercicio 14](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex14)
 
-[Ejercicio 5](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex5/postresemana.html)
+[Ejercicio 15](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex15)
 
-[Ejercicio 6](https://carlesnacher.github.io/cnv-se02-html-css-03112022/parquenatural/)
+[Ejercicio 16](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex16)
 
-[Ejercicio 7](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex7/)
+[Ejercicio 17](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex17)
 
-[Ejercicio 8](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex8/)
+[Ejercicio 18](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex18)
 
-[Ejercicio 9](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex9/)
+[Ejercicio 19](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex19)
 
-[Ejercicio 10](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex10/)
+[Ejercicio 20](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/Ex20)
 
 
 ## Licencia
