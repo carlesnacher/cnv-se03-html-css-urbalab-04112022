@@ -1,0 +1,9 @@
+table, tr, td {
+    border: 1px solid black;
+    text-align: left;
+}
+
+.negrita{
+    text-align: center;
+    font-weight: bold;
+}
