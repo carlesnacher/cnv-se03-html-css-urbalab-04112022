@@ -1,0 +1,11 @@
+body{
+    width: 90vw;
+}
+
+table, th, td, tr{
+    border: 1px solid black;
+}
+
+.spain{
+    font-weight: bold;
+}
