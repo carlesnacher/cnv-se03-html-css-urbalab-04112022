@@ -10,7 +10,7 @@ Actividades de refuerzo HTML5/CSS, del Bootcamp Programación Frontend Angular.
 
 [Ejercicio 11 donde2.html](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/deportes/donde2.html)
 
-[Ejercicio 3](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex3/platosemana.html)
+[Ejercicio 12](https://carlesnacher.github.io/cnv-se03-html-css-urbalab-04112022/deportes/instalaciones.html)
 
 [Ejercicio 4](https://carlesnacher.github.io/cnv-se02-html-css-03112022/Ex4/platosemana.html)
 
